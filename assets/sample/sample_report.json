@@ -1,0 +1,34 @@
+{
+ "Gender": 1,
+ "Birthday": "1994-06-15 00:00:00",
+ "Height": 1790,
+ "System": "Android",
+ "Name": "CHARDER EGYPT",
+ "Id": "A00BF",
+ "DataArray": [
+  {
+   "date": "2024-01-01 18:34:29",
+   "deviceId": 0,
+   "weight": 7260,
+   "bmi": 226,
+   "bodyFat": 212,
+   "muscleMass": 539,
+   "bmr": 1605,
+   "boneMass": 33,
+   "smm": 317,
+   "vatLevel": 7,
+   "bodyAge": 36,
+   "bodyWater": 577,
+   "muscleMassTrunk": 253,
+   "bodyFatTrunkMass": 89,
+   "muscleMassRightArm": 31,
+   "bodyFatRightArmMass": 6,
+   "muscleMassLeftArm": 31,
+   "bodyFatLeftArmMass": 6,
+   "muscleMassRightLeg": 88,
+   "bodyFatRightLegMass": 20,
+   "muscleMassLeftLeg": 88,
+   "bodyFatLeftLegMass": 20
+  }
+ ]
+}
